@@ -1,0 +1,122 @@
+{
+  "questions": [
+    {
+      "question": "What are the benefits of PCOE?",
+      "num":4,
+      "possibleAnswers": [
+        "Ethical Decision making",
+        "Trust and Respect from the General Public",
+        "High Standards of Practice and Ethical Behavior",
+        "Evaluation Benchmark"
+      ]
+    },
+    {
+      "question": "2 parts of PCOE",
+      "num":2,
+      "possibleAnswers": [
+        "Outlines what the organizations aspires to become",
+        "Typically lists rules and principles by which members of the organization are expected to abide by"
+      ]
+    },
+    {
+      "question": "deals with different issues related to both social and professional life",
+      "num":1,
+      "possibleAnswers": [
+        "Social and Professional Issues"
+      ]
+    },
+    {
+      "question": "set of guidelines which are designed to set out acceptable behavior of members of a particular group, association, or profession.",
+      "num":1,
+      "possibleAnswers": [
+        "Professional Code of Ethics"
+      ]
+    },
+    {
+      "question": "Code of Ethics of the Filipino IT Professionals",
+      "num":10,
+      "possibleAnswers": [
+        "I will promote public knowledge, understanding, and appreciation of Information Technology",
+        "I will consider the general welfare and public good in the performance of my work",
+        "I will advertise good or professional services in a clear and truthful manner",
+        "I will comply and strictly abide by the intellectual property laws, patent laws, and other related laws in respect of Information Technology",
+        "I will accept the full responsibility for the work undertaken and utilize my skills with competence and professionalism",
+        "I will make truthful statements on my areas of competence as well as the capabilities and qualities of my products and services",
+        "I will not disclose or use any confidential information obtained in the course of professional duties without the consent of the parties concerned except when required by laws",
+        "I will strive to attain the highest quality in both the products and services that I offer",
+        "I will knowingly participate in the development of Information Technology",
+        "I will upload and improve the IT Professionals standard through continuing to enhance the IT profession"
+      ]
+    },
+    {
+      "question": "AITP",
+      "num":1,
+      "possibleAnswers": [
+        "Association of Information Technology Professionals"
+      ]
+    },
+    {
+      "question": "deals with practical problems and focuses on the nature of moral action and responsibility: ",
+      "num":1,
+      "possibleAnswers": [
+        "Computer ethics"
+      ]
+    },
+    {
+      "question": "Code of Ethics of AITP",
+      "num":7,
+      "possibleAnswers": [
+        "That I have an obligation to management",
+        "That I have an obligation to my fellow members",
+        "That I have an obligation to society",
+        "That I have an obligation to my College or University",
+        "That I have an obligation to my employer whose trust I hold",
+        "That I have an obligation to my country",
+        "I accept these obligations"
+      ]
+    },
+    {
+      "question": "Principles",
+      "num":8,
+      "possibleAnswers": [
+        "Public",
+        "Client and Employer",
+        "Product",
+        "Judgement",
+        "Management",
+        "Profession",
+        "Colleagues",
+        "Self"
+      ]
+    },
+    {
+      "question": "The Ten Commandments",
+      "num":10,
+      "possibleAnswers": [
+        "Thou shalt not use a computer to harm other people",
+        "Thou shalt not snoop around in other people’s files",
+        "Thou shalt not interfere with other people’s computer work",
+        "Thou shalt not use a computer to steal",
+        "Thou shalt not use a computer to bear false witness",
+        "Thou shalt not use the people’s computer resources without authorization",
+        "Thou shalt not use or copy software for which you have not paid",
+        "Thou shalt not use the people’s computer resources without authorization",
+        "Thou shalt think about the social consequences of the program you write",
+        "Thou shalt use a computer in ways that show consideration and respect"
+      ]
+    },
+    {
+      "question": "Problem in Computer Ethics",
+      "num":7,
+      "possibleAnswers": [
+        "Computers Special Case",
+        "Logical Malleability",
+        "Impact on Society",
+        "Invisibility Factor",
+        "Invisible Abuse",
+        "Invisible programming",
+        "Invisible complex calculation"
+      ]
+    }
+  ]
+}
