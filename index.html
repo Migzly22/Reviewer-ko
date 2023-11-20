@@ -24,6 +24,7 @@
 </head>
 <body>
     <button onclick="start()">Start</button>
+    <button onclick="start2()">Start 2</button>
     <div id="inputwronganswers">
 
     </div>
@@ -60,6 +61,35 @@
             
             let inputwronganswers = document.getElementById("inputwronganswers")
             inputwronganswers.innerHTML = wronganswers.join("")
+
+            score = 0;
+        }
+        async function start2(){
+            const datas = await fetchData()
+            let total = 0
+
+            // Find the object in the 'questions' array with the target question
+            const targetQuestionObject = datas.questions.find(questionObj => questionObj.question === "Code of Ethics of the Filipino IT Professionals");
+
+            if (targetQuestionObject) {
+                total = targetQuestionObject.num
+                await swalcreator(targetQuestionObject.num,targetQuestionObject.question,targetQuestionObject.possibleAnswers)
+            } else {
+                console.log("The question does not exist in the array.");
+            }
+    
+            
+
+            await Swal.fire({
+                title: "Good job!",
+                text: `Your score is ${score} / ${total}`,
+                icon: "success"
+            });
+            
+            let inputwronganswers = document.getElementById("inputwronganswers")
+            inputwronganswers.innerHTML = wronganswers.join("")
+
+            score = 0;
         }
 
         async function fetchData() {
