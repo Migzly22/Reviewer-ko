@@ -117,6 +117,13 @@
         "Invisible programming",
         "Invisible complex calculation"
       ]
+    },
+    {
+      "question": "Cvsu hangarin",
+      "num":1,
+      "possibleAnswers": [
+        "Ang Cavite State university ay makapagbigay ng mahusay, pantay at makabuluhang edukasyon sa sining, agham at teknolohiya sa pamamagitan ng may kalidad na pagtuturo at tumutugon sa pangangailangang pananaliksik at mga gawaing pangkaunlaran. Makalikha ito ng mga indibidwal ng dalubhasa, may kasaysayan at kagandahan-asal sa pandaigdigang kakayahan."
+      ]
     }
   ]
 }
